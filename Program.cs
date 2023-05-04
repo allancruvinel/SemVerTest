@@ -16,6 +16,7 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();//mudanca a partir da 1.0.0
     //mudanca 2
     //mudanca 3
+    //mudanca 4
 }
 
 app.UseHttpsRedirection();
